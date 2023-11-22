@@ -5,7 +5,7 @@
 
 .home {
     height: 100%;
-    overflow: hidden;
+/*     overflow: hidden; */
 }
 
 .content {
@@ -149,7 +149,7 @@ span {
     color: #000;
     text-decoration: none;
     height: 3.5em;
-    overflow: hidden;
+/*     overflow: hidden; */
 }
 
 .ribbon span {
@@ -256,7 +256,7 @@ audio {
     justify-content: space-between;
     padding: 0 400px;
     box-sizing: border-box;
-    overflow: hidden;
+/*     overflow: hidden; */
 }
 
 .icons_items {
